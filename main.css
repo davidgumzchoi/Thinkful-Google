@@ -43,7 +43,7 @@ nav li {
 }
 
 nav li.apps {
-	background: url('apps.png') 0 0;
+	background: url('images/apps.png') 0 0;
 	height: 16px;
 	margin-left: 12px;
 	opacity: .6;
@@ -56,7 +56,7 @@ nav li.notifications:hover {
 }
 
 nav li.notifications {
-	background: url('notifications.png') 0 0;
+	background: url('images/notifications.png') 0 0;
 	height: 20px;
 	margin-left: 20px;
 	opacity: .6;
@@ -76,7 +76,7 @@ nav li.share a:hover {
 }
 
 nav li.user {
-	background: url('user.jpg') 0 0;
+	background: url('images/user.jpg') 0 0;
 	height: 30px;
 	margin-left: 12px;
 	width: 30px;
@@ -94,7 +94,7 @@ section img {
 }
 
 section input {
-	background: url('voice.gif') 99% 50% no-repeat;
+	background: url('images/voice.gif') 99% 50% no-repeat;
 	background-size: 2.5%;
 	border: 1px solid #ccc;
 	display: block;
